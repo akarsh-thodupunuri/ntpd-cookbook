@@ -1,0 +1,5 @@
+
+
+<% if node['ntp']['log_enabled'] -%>
+<%  -%>logfile <%= node['ntp']['log_location'] -%>
+<% end -%>

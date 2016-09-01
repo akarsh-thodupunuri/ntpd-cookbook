@@ -1,0 +1,5 @@
+name 'ntpd'
+version '0.2.1'
+supports 'centos', '>= 6.7'
+supports 'redhat', '>= 6.7'
+supports 'amazon', '>= 6.7'
